@@ -1,0 +1,16 @@
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.exe
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.deps.json
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.runtimeconfig.json
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.runtimeconfig.dev.json
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.dll
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\ref\SpecificationPattern.dll
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\bin\Debug\net5.0\SpecificationPattern.pdb
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.csproj.AssemblyReference.cache
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.AssemblyInfoInputs.cache
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.AssemblyInfo.cs
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.csproj.CoreCompileInputs.cache
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.dll
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\ref\SpecificationPattern.dll
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.pdb
+C:\Users\KVEAI58\Source\Repos\SpecificationPattern\SpecificationPattern\obj\Debug\net5.0\SpecificationPattern.genruntimeconfig.cache
